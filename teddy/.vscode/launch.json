@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "teddy",
+            "cwd": "${workspaceRoot}",
+            "runtimeExecutable": "node",
+            // "runtimeExecutable": "npm",
+            "program": "${workspaceRoot}/.electron-vue/dev-runner.js"
+            // "port": 5858
+        }
+    ]
+}

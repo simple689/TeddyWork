@@ -1,0 +1,37 @@
+http://ZhaoHuan@192.168.1.6:86/git/gitTeddy_Work
+http://WangShuai@192.168.1.6:86/git/gitShane_Work
+
+github
+https://github.com/simple689/gitTeddy_Work.git
+
+
+
+// git branch 介绍
+//////////////////////
+master 基本为空【整理】
+
+Server_DotNetCore 服务器【.net core 代码】
+Server_Res 服务器【资源】
+Server_Info 服务器【资料】
+
+Client_Unity 客户端【unity 代码】
+Client_Weixin 客户端【WeiXin 代码】
+Client_Res 客户端【资源】
+Client_Info 客户端【资料】
+
+Editor_Electron 编辑器【electron 代码】
+Editor_Unity 编辑器【unity 代码】
+Editor_Res 编辑器【资源】
+Editor_Info 编辑器【资料】
+
+Info_DotNetCore
+Info_Unity
+Info_Electron
+
+Tool
+ZhaoHuan
+
+// git branch 操作
+//////////////////////
+git checkout -b Server_DotNetCore
+git branch -D Server_DotNetCore 
